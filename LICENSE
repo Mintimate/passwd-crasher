@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025
+Copyright (c) 2020 hunshcn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,19 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-================================================================================
-WARNING: FOR TESTING PURPOSES ONLY
-================================================================================
-
-This tool is designed for authorized security testing and educational purposes
-only. Unauthorized access to computer systems is illegal. Users are responsible
-for ensuring they have proper authorization before using this tool on any
-system. The authors assume no liability for misuse or damage caused by this
-software.
-
-By using this software, you agree that:
-- You will only use it on systems you own or have explicit permission to test
-- You understand the legal implications of unauthorized access attempts
-- You will comply with all applicable laws and regulations
-- The authors are not responsible for any illegal activities or damages
